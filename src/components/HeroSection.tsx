@@ -16,7 +16,7 @@ const HeroSection = () => {
           <a href="#experience" className="hover:text-primary transition-colors">Experience</a>
           <a href="#route" className="hover:text-primary transition-colors">Route</a>
           <a href="#fleet" className="hover:text-primary transition-colors">Fleet</a>
-          <a href="#book" className="bg-gold-gradient text-primary-foreground px-6 py-2.5 font-medium tracking-wider hover:opacity-90 transition-opacity">
+          <a href="#contact" className="bg-gold-gradient text-primary-foreground px-6 py-2.5 font-medium tracking-wider hover:opacity-90 transition-opacity">
             Book Now
           </a>
         </div>
@@ -76,7 +76,7 @@ const HeroSection = () => {
         duration: 0.8,
         delay: 0.8
       }}>
-          <a href="#book" className="inline-block bg-gold-gradient text-primary-foreground px-10 py-4 font-body font-semibold text-base tracking-widest uppercase gold-glow hover:opacity-90 transition-all">
+          <a href="#contact" className="inline-block bg-gold-gradient text-primary-foreground px-10 py-4 font-body font-semibold text-base tracking-widest uppercase gold-glow hover:opacity-90 transition-all">
             Book Your Flight
           </a>
         </motion.div>
