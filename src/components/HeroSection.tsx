@@ -11,7 +11,7 @@ const HeroSection = () => {
 
       {/* Nav */}
       <nav className="absolute top-0 left-0 right-0 z-20 flex items-center justify-between px-6 py-6 md:px-12 lg:px-24">
-        <img alt="Sky Pharaohs" className="h-10 md:h-12 object-cover" src="/lovable-uploads/37e72511-f830-4d6e-bed3-7dc80eff10c6.png" />
+        <img alt="Sky Pharaohs" className="h-10 md:h-12 object-cover" src="/lovable-uploads/c2a09d27-0f72-4fd5-93e8-ce47ba1a2842.png" />
         <div className="hidden md:flex items-center gap-8 font-body text-sm tracking-widest uppercase text-foreground/80">
           <a href="#experience" className="hover:text-primary transition-colors">Experience</a>
           <a href="#route" className="hover:text-primary transition-colors">Route</a>
