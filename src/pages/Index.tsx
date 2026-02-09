@@ -2,6 +2,7 @@ import HeroSection from "@/components/HeroSection";
 import ExperienceSection from "@/components/ExperienceSection";
 import FlightPlanSection from "@/components/FlightPlanSection";
 import FleetSection from "@/components/FleetSection";
+import ContactSection from "@/components/ContactSection";
 import FooterSection from "@/components/FooterSection";
 
 const Index = () => {
@@ -11,6 +12,7 @@ const Index = () => {
       <ExperienceSection />
       <FlightPlanSection />
       <FleetSection />
+      <ContactSection />
       <FooterSection />
     </main>
   );
